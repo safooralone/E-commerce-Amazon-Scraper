@@ -38,5 +38,5 @@ The scraper intelligently handles dynamic content, scrolls the page when needed,
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/safooralone/E-commerce-Amazon-Scraper.git cd E-commerce-Amazon-Scraper
+git clone https://github.com/safooralone/E-commerce-Amazon-Scraper.git
+cd E-commerce-Amazon-Scraper
